@@ -1,0 +1,4 @@
+interface:
+  display_name: "leetcode答案自動上傳"
+  short_description: "建立每週 LeetCode 解答並上傳 GitHub"
+  default_prompt: "Use $leetcode-answer-auto-upload to add this week's LeetCode C++ solutions and push them to GitHub."
